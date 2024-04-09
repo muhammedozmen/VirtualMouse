@@ -15,7 +15,7 @@ c_locX, c_locY = 0, 0  # Current Locations
 cap = cv2.VideoCapture(0)
 cap.set(3, w_cam)
 cap.set(4, h_cam)
-detector = ht.handDetector(maxHands=1)
+detector = ht.handDetector(maxHands=2)
 wScr, hScr = autopy.screen.size()
 # print(wScr,hScr)
 
