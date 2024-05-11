@@ -9,7 +9,7 @@ Install Python 3.7, OpenCV 4.5.1.48, MediaPipe 0.8.7.2 and autopy 4.0.0 and run 
 
 - Detects your hand's skeleton and shows it
 - Detects the movement of your hand instantly
-- Allows you to click by using your index and middle fingers and touching each other
+- Allows you to click by using your index and middle fingers with touching each other
 
 
 ## Usage
