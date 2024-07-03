@@ -18,4 +18,4 @@ Install Python 3.7, OpenCV 4.5.1.48, MediaPipe 0.8.7.2 and autopy 4.0.0 and run 
 ![Hand detection example](/Screenshots/1.png?raw=true "Hand detection example")
 
 ### Usage video on Youtube
-#### https://www.youtube.com/watch?v=2onxZhiChIc
+#### 
