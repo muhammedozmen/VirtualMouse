@@ -3,7 +3,7 @@ Mouse control application with webcam
 
 ## Installation
 
-Install Python 3.7, OpenCV 4.5.1.48, MediaPipe 0.8.7.2 and autopy 4.0.0 and run AIVirtualMouse.py
+Install `Python 3.7`, `OpenCV 4.5.1.48`, `MediaPipe 0.8.7.2` and `autopy 4.0.0` and run `AIVirtualMouse.py`
 
 ## Features
 
